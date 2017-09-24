@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is the fifth file
+=======
+the fifth file.
+>>>>>>> 75232794c817f718909d82fcb297e31701262a40
